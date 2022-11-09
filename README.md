@@ -119,7 +119,6 @@ e6ee5344-04ef-454d-84e4-ba6fc613f1b4
 (hbnb) quit
 ➜  AirBnB_clone git:(feature) ✗
 
-```
 
 ## Built with :gear:
 python3 (3.4.3)
